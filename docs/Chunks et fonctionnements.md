@@ -1,4 +1,4 @@
-Comme expliqué dans la [présentation rapide](http://localhost:3000/docs/Pr%C3%A9sentation%20rapide), le monde construction est protégé par défaut, vous ne pouvez pas construire ni casser ou bon vous semble. Vous avez pour cela 100 chunks gratuits à l’acceptation de votre candidature sur discord. Il y a cependant des restrictions pour choisir votre zone :
+Comme expliqué dans la [présentation rapide](https://arryn.netlify.app/docs/Pr%C3%A9sentation%20rapide), le monde construction est protégé par défaut, vous ne pouvez pas construire ni casser ou bon vous semble. Vous avez pour cela 100 chunks gratuits à l’acceptation de votre candidature sur discord. Il y a cependant des restrictions pour choisir votre zone :
 
 * Être a au moins 1000 blocs du spawn
 * Ne pas être trop proches des autres projets sauf si la personne est d’accord
