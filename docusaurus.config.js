@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Wiki Arryn',
   tagline: 'Serveur Minecraft 1.19.2',
-  url: 'http://arrynwiki.github.io',
+  url: 'https://soft-piroshki-1f16fa.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Arrynwiki', // Usually your GitHub org/user name.
-  projectName: 'arrynwiki.github.io', // Usually your repo name.
+  projectName: 'arryn.github.io', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
