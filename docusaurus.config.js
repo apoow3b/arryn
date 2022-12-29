@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Wiki Arryn',
   tagline: 'Serveur Minecraft 1.19.2',
-  url: 'https://soft-piroshki-1f16fa.netlify.app/',
+  url: 'https://arryn.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
