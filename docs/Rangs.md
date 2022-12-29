@@ -5,7 +5,7 @@ Le status qui vous est attribué quand vous n'avez pas encore de rang (lors de v
 
 * Chunks : 4
 * Homes : 1 
-* Accès aux commandes de base (voir [Commandes utiles](http://localhost:3000/docs/Commandes%20utiles))
+* Accès aux commandes de base (voir [Commandes utiles](https://arryn.netlify.app/docs/Commandes%20utiles))
 
 ---------------------------------------
 
