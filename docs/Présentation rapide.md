@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 ![Banner](https://media.discordapp.net/attachments/1040672846613065758/1048378207528816760/si_tu_lis_sa_tes_sympa_mec.png?width=1192&height=670)
 Bienvenue sur le serveur smp Arryn ! Ce serveur a pour but de nous rassembler autour d’une survie améliorée pour pouvoir build et jouer plus facilement.
 
