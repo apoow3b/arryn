@@ -2,6 +2,8 @@
 
 > ArrynWiki documentation repository, powered ❤️ by [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+![banner](https://media.discordapp.net/attachments/1040672846613065758/1058173295981232209/azfzaegezrg.png?width=921&height=356)
+
 [![build](https://img.shields.io/github/workflow/status/okp4/docs/Build?label=build&style=for-the-badge&logo=github)](https://docusaurus.io/)
 [![publish](https://img.shields.io/github/workflow/status/okp4/docs/Publish?label=publish&style=for-the-badge&logo=github)](https://netlify.com/)
 [![license][bsd-3-clause-image]][bsd-3-clause]
